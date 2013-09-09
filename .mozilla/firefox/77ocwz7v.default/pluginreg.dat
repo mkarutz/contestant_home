@@ -1,25 +1,25 @@
 Generated File. Do not edit.
 
 [HEADER]
-Version:0.15:$
+Version:0.16:$
 Arch:x86-gcc3:$
 
 [PLUGINS]
 libflashplayer.so:$
 /usr/lib/flashplugin-installer/libflashplayer.so:$
-:$
-1351702365000:0:1:$
+11,2,202,297:$
+1378732250000:0:0:$
 Shockwave Flash 11.2 r202:$
 Shockwave Flash:$
 2
 0:application/x-shockwave-flash:Shockwave Flash:swf:$
 1:application/futuresplash:FutureSplash Player:spl:$
 libnpjp2.so:$
-/usr/lib/jvm/jdk1.7.0_07/jre/lib/i386/libnpjp2.so:$
+/usr/lib/jvm/java-7-oracle/jre/lib/i386/libnpjp2.so:$
 :$
-1346203566000:0:5:$
+1378732007000:0:0:$
 <a href="http://java.sun.com">Java</a> plug-in for NPAPI-based browsers.:$
-Java(TM) Plug-in 1.7.0_07:$
+Java Plug-in 1.7.0_25:$
 38
 0:application/x-java-vm:Java&#153 Plug-in::$
 1:application/x-java-applet:Java&#153 Plug-in Applet::$
@@ -54,10 +54,10 @@ Java(TM) Plug-in 1.7.0_07:$
 30:application/x-java-bean;version=1.6:Java&#153 Plug-in::$
 31:application/x-java-applet;version=1.7:Java&#153 Plug-in::$
 32:application/x-java-bean;version=1.7:Java&#153 Plug-in::$
-33:application/x-java-applet;jpi-version=1.7.0_07:Java&#153 Plug-in::$
-34:application/x-java-bean;jpi-version=1.7.0_07:Java&#153 Plug-in::$
-35:application/x-java-applet;deploy=10.7.0:Java&#153 Plug-in::$
-36:application/x-java-applet;javafx=2.2.1:Java&#153 Plug-in::$
+33:application/x-java-applet;jpi-version=1.7.0_25:Java&#153 Plug-in::$
+34:application/x-java-bean;jpi-version=1.7.0_25:Java&#153 Plug-in::$
+35:application/x-java-applet;deploy=10.25.2:Java&#153 Plug-in::$
+36:application/x-java-applet;javafx=2.2.25:Java&#153 Plug-in::$
 37:application/x-java-vm-npruntime:Java&#153 Plug-in::$
 
 [INVALID]
