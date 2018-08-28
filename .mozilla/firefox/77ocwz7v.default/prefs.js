@@ -26,7 +26,7 @@ user_pref("browser.preferences.advanced.selectedTabIndex", 3);
 user_pref("browser.rights.3.shown", true);
 user_pref("browser.safebrowsing.enabled", false);
 user_pref("browser.safebrowsing.malware.enabled", false);
-user_pref("browser.startup.homepage", "http://ser.cs.fit.edu/ser2013/");
+user_pref("browser.startup.homepage", "http://umcpc.org");
 user_pref("browser.startup.homepage_override.buildID", "20130911160237");
 user_pref("browser.startup.homepage_override.mstone", "24.0");
 user_pref("browser.syncPromoViewsLeft", 2);
